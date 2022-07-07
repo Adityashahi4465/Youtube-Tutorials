@@ -1,1 +1,18 @@
+#include <stdio.h>
 
+int b = 63; // Gloable variable
+void fun()                       
+{
+    //    a=6;
+    b = 5;
+}
+int main()
+{
+
+    int a = 5; // loacle VARIABLE
+
+    int $idk; // this will give error becouse spaicel char in not allowed
+    int w;    // Declaration
+    w = 67;   // initialization
+    return 0;
+}
